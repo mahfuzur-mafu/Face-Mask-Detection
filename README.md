@@ -39,4 +39,6 @@ Now its ready to perform basic image processing using OpenCV Package. Now after 
  
  ![image](https://user-images.githubusercontent.com/63856744/129729023-c872e2d9-48d5-4469-be40-b31edaa6d108.png)
 
+And to open image in new window we can write this code 
 
+![image](https://user-images.githubusercontent.com/63856744/129729190-16cdc530-d11a-495c-a64e-99d6360fc84f.png)
