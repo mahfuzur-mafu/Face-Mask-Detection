@@ -75,7 +75,6 @@ This was a great experience doing this project. This project was intended to mak
 
 
 
-
 Face Mask Detection© Md. Mahfuzur Rahman 
 
 ©2021 Md. Mahfuzur Rahman. All Rights Reserved
