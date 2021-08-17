@@ -42,3 +42,19 @@ Now its ready to perform basic image processing using OpenCV Package. Now after 
 And to open image in new window we can write this code 
 
 ![image](https://user-images.githubusercontent.com/63856744/129729190-16cdc530-d11a-495c-a64e-99d6360fc84f.png)
+
+
+# Face Detection Using OpenCV
+So now i am going to see how to detect face from an image. Face detection algorithm was introduced by Viola and Jones in 2001. They divided this algorithm in four stages
+
+•	Haar Features Selection
+
+•	Integral Images
+
+•	AdaBoost
+
+•	Cascading Classifier
+
+I already have a XML file which is going to help us to detect faces from the image.
+
+![image](https://user-images.githubusercontent.com/63856744/129729722-54b9851d-ec18-46c2-b4c0-93d9c7f659da.png)
