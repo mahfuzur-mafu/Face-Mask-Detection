@@ -34,27 +34,58 @@ Another good thing is that we have a library known as OpenCV which will help us 
 
 Now its ready to perform basic image processing using OpenCV Package. Now after importing OpenCV I can read an image. So, when i read any image using OpenCV it returns object of numpy array by default and using img.shape we are checking the height and width of image and also it returns 3 which is the color channel of image. Now i can see the values of array are the color values actually.
 
- Using matplotlib we can visualize the image 
+![image](https://user-images.githubusercontent.com/63856744/129731474-b8423101-ec8b-4753-af25-642389fe35b1.png)
+
+
+![image](https://user-images.githubusercontent.com/63856744/129731503-d3a66c4b-f3f1-44a0-910f-6296e8552081.png)
+
+
+![image](https://user-images.githubusercontent.com/63856744/129731545-2ee5c10a-aca5-4213-b251-4796a47753ec.png)
+
+
+![image](https://user-images.githubusercontent.com/63856744/129731628-3f6d7e7a-1ad4-4fcf-9a89-b73f9c3c7bcb.png)
+
+
+![image](https://user-images.githubusercontent.com/63856744/129731671-41ebaa6a-10d1-4bf9-868e-8902d6a079eb.png)
+
+
+
+
+# Implemented Software
+
+IDE : Jupyter Notebook Version: 6.3.0
+
+Language: Python 3.9
+
+
+# Challenges Faced :
+
+•	Failed to load file
+
+•	Failed to detect object
+
+•	Dataset failed to load
+
+•	Some little bugs on Sk learn module
+
+# Conclusion 
+This was a great experience doing this project. This project was intended to make the pandemic system easier and reliable and a number of people will benefit from using this system. The challenges I  faced and the learning that will come in great help in the future.
+
+                                          ~~Thank you ~~ 
+
+
+
+
+
+Face Mask Detection© Md. Mahfuzur Rahman 
+
+©2021 Md. Mahfuzur Rahman. All Rights Reserved
+
+
+
+
  
- 
- ![image](https://user-images.githubusercontent.com/63856744/129729023-c872e2d9-48d5-4469-be40-b31edaa6d108.png)
-
-And to open image in new window we can write this code 
-
-![image](https://user-images.githubusercontent.com/63856744/129729190-16cdc530-d11a-495c-a64e-99d6360fc84f.png)
 
 
-# Face Detection Using OpenCV
-So now i am going to see how to detect face from an image. Face detection algorithm was introduced by Viola and Jones in 2001. They divided this algorithm in four stages
 
-•	Haar Features Selection
 
-•	Integral Images
-
-•	AdaBoost
-
-•	Cascading Classifier
-
-I already have a XML file which is going to help us to detect faces from the image.
-
-![image](https://user-images.githubusercontent.com/63856744/129729722-54b9851d-ec18-46c2-b4c0-93d9c7f659da.png)
