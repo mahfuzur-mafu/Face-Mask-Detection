@@ -71,7 +71,7 @@ Language: Python 3.9
 # Conclusion 
 This was a great experience doing this project. This project was intended to make the pandemic system easier and reliable and a number of people will benefit from using this system. The challenges I  faced and the learning that will come in great help in the future.
                                     
-                                                                        ~~Thank you ~~ 
+                                                                ~~Thank you ~~ 
 
 
 
