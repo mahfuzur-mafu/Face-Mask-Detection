@@ -50,7 +50,6 @@ Now its ready to perform basic image processing using OpenCV Package. Now after 
 
 
 
-
 # Implemented Software
 
 IDE : Jupyter Notebook Version: 6.3.0
